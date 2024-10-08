@@ -5,6 +5,8 @@
 // Please see LICENSE in the repository root for full details.
 //
 
+// swiftlint:disable superfluous_disable_command file_length implicit_return
+
 import Combine
 import SwiftState
 import SwiftUI
@@ -1562,3 +1564,5 @@ struct FocusEvent: Hashable {
     /// if the focus is coming from the pinned timeline, this should also update the pin banner
     let shouldSetPin: Bool
 }
+
+// swiftlint:enable superfluous_disable_command file_length implicit_return

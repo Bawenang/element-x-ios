@@ -5,6 +5,8 @@
 // Please see LICENSE in the repository root for full details.
 //
 
+// swiftlint:disable superfluous_disable_command file_length implicit_return
+
 import AnalyticsEvents
 import BackgroundTasks
 import Combine
@@ -1020,3 +1022,5 @@ class AppCoordinator: AppCoordinatorProtocol, AuthenticationFlowCoordinatorDeleg
             })
     }
 }
+
+// swiftlint:enable superfluous_disable_command file_length implicit_return

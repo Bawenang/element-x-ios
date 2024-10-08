@@ -5,6 +5,8 @@
 // Please see LICENSE in the repository root for full details.
 //
 
+// swiftlint:disable superfluous_disable_command file_length implicit_return
+
 import Combine
 import CryptoKit
 import Foundation
@@ -1052,3 +1054,5 @@ private extension RoomPreviewDetails {
                                   canKnock: roomPreview.canKnock)
     }
 }
+
+// swiftlint:enable superfluous_disable_command file_length implicit_return
