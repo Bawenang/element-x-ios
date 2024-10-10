@@ -18,7 +18,7 @@ class AuthenticationStartScreenViewModel: AuthenticationStartScreenViewModelType
     }
 
     init(webRegistrationEnabled: Bool) {
-        super.init(initialViewState: AuthenticationStartScreenViewState(isWebRegistrationEnabled: webRegistrationEnabled,
+        super.init(initialViewState: AuthenticationStartScreenViewState(isWebRegistrationEnabled: false,
                                                                         isQRCodeLoginEnabled: !ProcessInfo.processInfo.isiOSAppOnMac && AppSettings.isDevelopmentBuild))
     }
 
