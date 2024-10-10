@@ -1546,7 +1546,7 @@
 		4B41FABA2B0AEF4389986495 /* LoginMode.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMode.swift; sourceTree = "<group>"; };
 		4BD371B60E07A5324B9507EF /* AnalyticsSettingsScreenCoordinator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalyticsSettingsScreenCoordinator.swift; sourceTree = "<group>"; };
 		4C8D988E82A8DFA13BE46F7C /* pl */ = {isa = PBXFileReference; lastKnownFileType = text.plist.stringsdict; name = pl; path = pl.lproj/Localizable.stringsdict; sourceTree = "<group>"; };
-		4CD6AC7546E8D7E5C73CEA48 /* ElementX.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ElementX.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CD6AC7546E8D7E5C73CEA48 /* C3SyS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = C3SyS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CDDDDD9FE1A699D23A5E096 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
 		4D3A7375AB22721C436EB056 /* ComposerToolbarModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposerToolbarModels.swift; sourceTree = "<group>"; };
 		4E2245243369B99216C7D84E /* ImageCache.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCache.swift; sourceTree = "<group>"; };
@@ -3648,7 +3648,7 @@
 		681566846AF307E9BA4C72C6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				4CD6AC7546E8D7E5C73CEA48 /* ElementX.app */,
+				4CD6AC7546E8D7E5C73CEA48 /* C3SyS.app */,
 				9C7F7DE62D33C6A26CBFCD72 /* IntegrationTests.xctest */,
 				0D8F620C8B314840D8602E3F /* NSE.appex */,
 				D95E8C0EFEC0C6F96EDAA71A /* PreviewTests.xctest */,
@@ -5600,9 +5600,9 @@
 			productReference = D95E8C0EFEC0C6F96EDAA71A /* PreviewTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		C0FAEB81CFD9776CD78CE489 /* ElementX */ = {
+		C0FAEB81CFD9776CD78CE489 /* C3SyS */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = B15427F8699AD5A5FC75C17E /* Build configuration list for PBXNativeTarget "ElementX" */;
+			buildConfigurationList = B15427F8699AD5A5FC75C17E /* Build configuration list for PBXNativeTarget "C3SyS" */;
 			buildPhases = (
 				A7130911BCB2DF3D249A1836 /* 🛠 SwiftGen */,
 				7F26850DA7BC749F6FC41586 /* 🧙 Sourcery - Generate mocks */,
@@ -5619,7 +5619,7 @@
 			dependencies = (
 				2C29670603B37E38705D5FF1 /* PBXTargetDependency */,
 			);
-			name = ElementX;
+			name = C3SyS;
 			packageProductDependencies = (
 				A678E40E917620059695F067 /* MatrixRustSDK */,
 				07FEEEDB11543A7DED420F04 /* Compound */,
@@ -5646,7 +5646,7 @@
 				2A4106A0A96DC4C273128AA5 /* DSWaveformImageViews */,
 			);
 			productName = ElementX;
-			productReference = 4CD6AC7546E8D7E5C73CEA48 /* ElementX.app */;
+			productReference = 4CD6AC7546E8D7E5C73CEA48 /* C3SyS.app */;
 			productType = "com.apple.product-type.application";
 		};
 		D3DB351B7FBE0F49649171FC /* IntegrationTests */ = {
@@ -5802,7 +5802,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				C0FAEB81CFD9776CD78CE489 /* ElementX */,
+				C0FAEB81CFD9776CD78CE489 /* C3SyS */,
 				D3DB351B7FBE0F49649171FC /* IntegrationTests */,
 				FEB53A5BC378C913769656D8 /* NSE */,
 				F8E276FD6DC43EADB85241BC /* Periphery */,
@@ -7084,7 +7084,7 @@
 /* Begin PBXTargetDependency section */
 		0EEC1557A40FBA6DF49D83A2 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C0FAEB81CFD9776CD78CE489 /* ElementX */;
+			target = C0FAEB81CFD9776CD78CE489 /* C3SyS */;
 			targetProxy = 4D8DD8FE84794CA168A8499A /* PBXContainerItemProxy */;
 		};
 		2C29670603B37E38705D5FF1 /* PBXTargetDependency */ = {
@@ -7094,17 +7094,17 @@
 		};
 		421359F1BC0A1816DD34A2BB /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C0FAEB81CFD9776CD78CE489 /* ElementX */;
+			target = C0FAEB81CFD9776CD78CE489 /* C3SyS */;
 			targetProxy = 4448BD77D7203616C4FAD26A /* PBXContainerItemProxy */;
 		};
 		468963EFD503D7DFAD238754 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C0FAEB81CFD9776CD78CE489 /* ElementX */;
+			target = C0FAEB81CFD9776CD78CE489 /* C3SyS */;
 			targetProxy = 6848AF4480814C5F810FB7EB /* PBXContainerItemProxy */;
 		};
 		8E24DC048A099AAFEE13B4F5 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = C0FAEB81CFD9776CD78CE489 /* ElementX */;
+			target = C0FAEB81CFD9776CD78CE489 /* C3SyS */;
 			targetProxy = 889C131F86E6415074D382B9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -7298,12 +7298,15 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E65DA46BD5CA83747AE144F3 /* secrets.xcconfig */;
 			buildSettings = {
+				APP_DISPLAY_NAME = C3SyS;
+				APP_NAME = C3SyS;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = ElementX/SupportingFiles/ElementX.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = "$(CURRENT_PROJECT_VERSION)";
 				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
 				INFOPLIST_FILE = ElementX/SupportingFiles/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -7324,12 +7327,15 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = E65DA46BD5CA83747AE144F3 /* secrets.xcconfig */;
 			buildSettings = {
+				APP_DISPLAY_NAME = C3SyS;
+				APP_NAME = C3SyS;
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_ENTITLEMENTS = ElementX/SupportingFiles/ElementX.entitlements;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				CURRENT_PROJECT_VERSION = "$(CURRENT_PROJECT_VERSION)";
 				DEVELOPMENT_TEAM = "$(DEVELOPMENT_TEAM)";
 				INFOPLIST_FILE = ElementX/SupportingFiles/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -7671,7 +7677,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Debug;
 		};
-		B15427F8699AD5A5FC75C17E /* Build configuration list for PBXNativeTarget "ElementX" */ = {
+		B15427F8699AD5A5FC75C17E /* Build configuration list for PBXNativeTarget "C3SyS" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				6897D5BC19A2EA6ABD57DE7E /* Debug */,
