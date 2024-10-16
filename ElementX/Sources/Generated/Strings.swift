@@ -1307,6 +1307,8 @@ internal enum L10n {
   }
   /// Be in your element
   internal static var screenOnboardingWelcomeTitle: String { return L10n.tr("Localizable", "screen_onboarding_welcome_title") }
+  /// Welcome to C3 SYS!
+  internal static var screenOnboardingWelcomeTitleCesys: String { return L10n.tr("Localizable", "screen_onboarding_welcome_title_cesys") }
   /// Press on a message and choose “%1$@” to include here.
   internal static func screenPinnedTimelineEmptyStateDescription(_ p1: Any) -> String {
     return L10n.tr("Localizable", "screen_pinned_timeline_empty_state_description", String(describing: p1))

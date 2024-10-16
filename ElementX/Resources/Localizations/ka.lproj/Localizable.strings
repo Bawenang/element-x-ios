@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "ანგარიშის შექმნა";
 "screen_onboarding_welcome_message" = "კეთილი იყოს თქვენი მობრძანება უსწრაფეს %1$@-ში. დამუხტულია სიჩქარისა და სიმარტივისათვის.";
 "screen_onboarding_welcome_subtitle" = "კეთილი იყოს თქვენი მობრძანება %1$@-ში! დამუხტული სიჩქარისა და სიმარტივისთვის.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "იყავი შენს element-ში";
 "screen_polls_history_empty_ongoing" = "მიმდინარე გამოკითხვები ვერ მოიძებნა.";
 "screen_polls_history_empty_past" = "ბოლო გამოკითხვების მოძებნა ვერ მოხერხდა.";

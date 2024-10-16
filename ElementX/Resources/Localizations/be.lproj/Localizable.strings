@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Стварыць уліковы запіс";
 "screen_onboarding_welcome_message" = "Сардэчна запрашаем у самы хуткі %1$@. Перавага ў хуткасці і прастаце.";
 "screen_onboarding_welcome_subtitle" = "Сардэчна запрашаем у %1$@. Зараджаны, для хуткасці і прастаты.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Будзьце ў сваім element";
 "screen_polls_history_empty_ongoing" = "Немагчыма знайсці бягучыя апытанні.";
 "screen_polls_history_empty_past" = "Немагчыма знайсці мінулыя апытанні.";

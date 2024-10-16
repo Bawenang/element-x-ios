@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Δημιουργία λογαριασμού";
 "screen_onboarding_welcome_message" = "Καλώς ήλθατε στο γρηγορότερο %1$@ όλων των εποχών. Υπερτροφοδοτούμενο με ταχύτητα και απλότητα.";
 "screen_onboarding_welcome_subtitle" = "Καλώς ήρθες στο %1$@. Υπερφορτισμένο, για ταχύτητα και απλότητα.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Μείνε στο element σου";
 "screen_polls_history_empty_ongoing" = "Δεν είναι δυνατή η εύρεση ενεργών δημοσκοπήσεων";
 "screen_polls_history_empty_past" = "Δεν είναι δυνατή η εύρεση παλιών δημοσκοπήσεων";

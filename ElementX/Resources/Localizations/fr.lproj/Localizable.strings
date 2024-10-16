@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Créer un compte";
 "screen_onboarding_welcome_message" = "Bienvenue dans l’application %1$@ la plus rapide de tous les temps. Boosté pour plus de rapidité et de simplicité.";
 "screen_onboarding_welcome_subtitle" = "Bienvenue sur %1$@. Boosté, pour plus de rapidité et de simplicité.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Soyez dans votre Element";
 "screen_polls_history_empty_ongoing" = "Impossible de trouver des sondages en cours.";
 "screen_polls_history_empty_past" = "Impossible de trouver des sondages terminés.";

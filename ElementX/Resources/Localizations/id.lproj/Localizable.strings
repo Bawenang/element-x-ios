@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Buat akun";
 "screen_onboarding_welcome_message" = "Selamat datang di %1$@ tercepat yang pernah ada. Berdaya besar untuk kecepatan dan kesederhanaan.";
 "screen_onboarding_welcome_subtitle" = "Selamat datang di %1$@. Berdaya penuh, untuk kecepatan dan kesederhanaan.";
+"screen_onboarding_welcome_title_cesys" = "Selamat datang di C3 SYS!";
 "screen_onboarding_welcome_title" = "Berada di elemen Anda";
 "screen_polls_history_empty_ongoing" = "Tidak dapat menemukan pemungutan suara yang sedang berlangsung.";
 "screen_polls_history_empty_past" = "Tidak dapat menemukan pemungutan suara sebelumnya.";

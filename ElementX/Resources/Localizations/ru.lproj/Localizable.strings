@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Создать учетную запись";
 "screen_onboarding_welcome_message" = "Добро пожаловать в самый быстрый %1$@. Сверхзаряженность на скорость и простоту.";
 "screen_onboarding_welcome_subtitle" = "Добро пожаловать в %1$@. Сверхзаряжен для скорости и простоты.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Будьте в своем element";
 "screen_polls_history_empty_ongoing" = "Не найдено текущих опросов.";
 "screen_polls_history_empty_past" = "Не найдено предыдущих опросов.";

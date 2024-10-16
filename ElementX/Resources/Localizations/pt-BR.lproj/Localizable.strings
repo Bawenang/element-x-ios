@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Criar conta";
 "screen_onboarding_welcome_message" = "Bem-vindo ao mais rápido %1$@ de todos os tempos. Turbinado para velocidade e simplicidade.";
 "screen_onboarding_welcome_subtitle" = "Bem-vindo ao %1$@. Turbinado, para velocidade e simplicidade";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Esteja no seu elemento";
 "screen_polls_history_empty_ongoing" = "Não foi possível encontrar nenhuma enquete em andamento.";
 "screen_polls_history_empty_past" = "Não foi possível encontrar nenhuma enquete anterior.";

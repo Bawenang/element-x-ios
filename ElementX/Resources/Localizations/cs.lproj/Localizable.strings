@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Vytvořit účet";
 "screen_onboarding_welcome_message" = "Vítejte u dosud nejrychlejšího %1$@u. Vylepšený pro rychlost a jednoduchost.";
 "screen_onboarding_welcome_subtitle" = "Vítejte v %1$@. Vylepšený, pro rychlost a jednoduchost.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Buďte ve svém živlu";
 "screen_polls_history_empty_ongoing" = "Nelze najít žádná probíhající hlasování.";
 "screen_polls_history_empty_past" = "Nelze najít žádná minulá hlasování.";

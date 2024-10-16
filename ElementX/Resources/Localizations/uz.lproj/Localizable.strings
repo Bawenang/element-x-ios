@@ -555,6 +555,7 @@
 "screen_onboarding_sign_up" = "Hisob yaratish";
 "screen_onboarding_welcome_message" = "Eng tezkor %1$@ga xush kelibsiz. Tezlik va oddylik uchun super zaryadlangan.";
 "screen_onboarding_welcome_subtitle" = "%1$@ga Xush kelibsiz. Tezlik va oddylik uchun o'ta zaryadlangan.";
+"screen_onboarding_welcome_title_cesys" = "Welcome to C3 SYS!";
 "screen_onboarding_welcome_title" = "Elementingizda bo'ling";
 "screen_polls_history_empty_ongoing" = "Can't find any ongoing polls.";
 "screen_polls_history_empty_past" = "Can't find any past polls.";
