@@ -55,26 +55,18 @@ struct AuthenticationStartScreen: View {
         VStack(spacing: 0) {
             Spacer()
             
+            Text(L10n.screenOnboardingWelcomeTitleCesys)
+                .font(.compound.headingLGBold)
+                .foregroundColor(.compound.textPrimary)
+                .multilineTextAlignment(.center)
+            
+            Spacer()
+            
             if verticalSizeClass == .regular {
                 Spacer()
                 
                 AuthenticationStartLogo(isOnGradient: true)
             }
-            
-            Spacer()
-            
-            VStack(spacing: 8) {
-                Text(L10n.screenOnboardingWelcomeTitle)
-                    .font(.compound.headingLGBold)
-                    .foregroundColor(.compound.textPrimary)
-                    .multilineTextAlignment(.center)
-                Text(L10n.screenOnboardingWelcomeMessage(InfoPlistReader.main.productionAppName))
-                    .font(.compound.bodyLG)
-                    .foregroundColor(.compound.textSecondary)
-                    .multilineTextAlignment(.center)
-            }
-            .padding()
-            .fixedSize(horizontal: false, vertical: true)
             
             Spacer()
         }
