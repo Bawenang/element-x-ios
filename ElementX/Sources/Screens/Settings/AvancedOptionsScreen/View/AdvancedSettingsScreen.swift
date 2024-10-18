@@ -18,9 +18,6 @@ struct AdvancedSettingsScreen: View {
                         kind: .picker(selection: $context.appAppearance,
                                       items: AppAppearance.allCases.map { (title: $0.name, tag: $0) }))
                 
-                ListRow(label: .plain(title: L10n.actionViewSource),
-                        kind: .toggle($context.viewSourceEnabled))
-                
                 ListRow(label: .plain(title: L10n.screenAdvancedSettingsSharePresence,
                                       description: L10n.screenAdvancedSettingsSharePresenceDescription),
                         kind: .toggle($context.sharePresence))
